@@ -48,7 +48,7 @@ public class BEU_PlayerAttack : MonoBehaviour
     void ComboAttacks()
     {
         // Input de golpes
-        if (Input.GetKeyDown(KeyCode.Q))
+        if (Input.GetKeyDown(KeyCode.J))
         {
             // Checar posibles estados actuales para finalizar el metodo
             if(currentComboState == ComboState.PUNCH_3 || currentComboState == ComboState.KICK_1 || currentComboState == ComboState.KICK_2)
@@ -91,7 +91,7 @@ public class BEU_PlayerAttack : MonoBehaviour
         }
 
         // Input de patadas
-        if (Input.GetKeyDown(KeyCode.E))
+        if (Input.GetKeyDown(KeyCode.K))
         {
             // Checar posibles estados actuales para finalizar el metodo
             if (currentComboState == ComboState.KICK_2 || currentComboState == ComboState.PUNCH_3)

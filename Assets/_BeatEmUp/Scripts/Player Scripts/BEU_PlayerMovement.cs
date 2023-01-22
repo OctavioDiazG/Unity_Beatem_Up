@@ -14,6 +14,7 @@ public class BEU_PlayerMovement : MonoBehaviour
     private BEU_CharacterAnimation playerAnim; // Referencia del script de animaciones del personaje
 
     private float rotationY = -90f; // Rotacion del personaje al iniciar el juego
+    private float rotationSpeed = 15f; // Velocidad de rotacion
 
     private void Awake()
     {

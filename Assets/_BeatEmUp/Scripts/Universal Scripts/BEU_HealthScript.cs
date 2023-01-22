@@ -35,6 +35,11 @@ public class BEU_HealthScript : MonoBehaviour
 
         //Reducir vida usando el parametro local de da�o
         healt -= _damage;
+        if (isPlayer)
+        {
+            salud.DisplayHealth(healt);
+        }
+        //Mostrar UI de vida
 
         //Condicional de muerte del personaje
         //Checar si la cantidad de vida es 0 o menor
