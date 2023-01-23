@@ -6,25 +6,17 @@
   <component name="ChangeListManager">
     <list default="true" id="d56a4c64-12d3-4757-9225-fc6e37fcb097" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TTkBEU/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TTkBEU/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_BeatEmUp/Models/Enemy/Animations/Enemy Clips/Anim_BEU_EnemyAttack1.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_BeatEmUp/Models/Enemy/Animations/Enemy Clips/Anim_BEU_EnemyAttack1.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_BeatEmUp/Models/Enemy/Animations/Enemy Clips/Anim_BEU_EnemyAttack2.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_BeatEmUp/Models/Enemy/Animations/Enemy Clips/Anim_BEU_EnemyAttack2.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_BeatEmUp/Models/Enemy/Animations/Enemy Clips/Anim_BEU_EnemyDeath.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_BeatEmUp/Models/Enemy/Animations/Enemy Clips/Anim_BEU_EnemyDeath.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_BeatEmUp/Models/Enemy/Animations/Enemy Clips/Anim_BEU_EnemyHit1.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_BeatEmUp/Models/Enemy/Animations/Enemy Clips/Anim_BEU_EnemyHit1.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_BeatEmUp/Models/Enemy/Animations/Enemy Clips/Anim_BEU_EnemyIdle.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_BeatEmUp/Models/Enemy/Animations/Enemy Clips/Anim_BEU_EnemyIdle.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_BeatEmUp/Models/Enemy/Animations/Enemy Clips/Anim_BEU_EnemyWalk.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_BeatEmUp/Models/Enemy/Animations/Enemy Clips/Anim_BEU_EnemyWalk.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_BeatEmUp/Models/Enemy/Animator Controller/AnimCtrl_BEU_Enemy.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_BeatEmUp/Models/Enemy/Animator Controller/AnimCtrl_BEU_Enemy.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_BeatEmUp/Models/Player/Animations/Anim_BEU_Player_Death.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_BeatEmUp/Models/Player/Animations/Anim_BEU_Player_Death.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_BeatEmUp/Models/Player/Animations/Anim_BEU_Player_Idle.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_BeatEmUp/Models/Player/Animations/Anim_BEU_Player_Idle.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_BeatEmUp/Models/Player/Animator Controller/AnimCtrl_BEU_Player.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_BeatEmUp/Models/Player/Animator Controller/AnimCtrl_BEU_Player.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_BeatEmUp/Prefabs/Enemy Prefabs/BEU_Enemy.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_BeatEmUp/Prefabs/Enemy Prefabs/BEU_Enemy.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_BeatEmUp/Prefabs/Enemy Prefabs/BEU_Enemy2.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_BeatEmUp/Prefabs/Enemy Prefabs/BEU_Enemy2.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_BeatEmUp/Prefabs/Level Prefabs/LevelColliders.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_BeatEmUp/Prefabs/Level Prefabs/LevelColliders.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/_BeatEmUp/Scenes/BeatEmUp.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_BeatEmUp/Scenes/BeatEmUp.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_BeatEmUp/Scripts/Enemy Scripts/BEU_EnemyMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_BeatEmUp/Scripts/Enemy Scripts/BEU_EnemyMovement.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_BeatEmUp/Scripts/Player Scripts/TestYourMight.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_BeatEmUp/Scripts/Player Scripts/TestYourMight.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_BeatEmUp/Scripts/Universal Scripts/BEU_CharacterAnimationDelegate.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_BeatEmUp/Scripts/Universal Scripts/BEU_CharacterAnimationDelegate.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_BeatEmUp/Scripts/Universal Scripts/BEU_UniversalAttack.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_BeatEmUp/Scripts/Universal Scripts/BEU_UniversalAttack.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_BeatEmUp/Scenes/Derrota.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_BeatEmUp/Scenes/Derrota.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_BeatEmUp/Scenes/Level2.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_BeatEmUp/Scenes/Level2.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_BeatEmUp/Scenes/WinScene 1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_BeatEmUp/Scenes/WinScene 1.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_BeatEmUp/Scenes/WinScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_BeatEmUp/Scenes/WinScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_BeatEmUp/Scripts/CambioEscena.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_BeatEmUp/Scripts/CambioEscena.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_BeatEmUp/Scripts/Universal Scripts/BEU_HealtUi.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_BeatEmUp/Scripts/Universal Scripts/BEU_HealtUi.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_BeatEmUp/Scripts/Universal Scripts/BEU_HealthScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_BeatEmUp/Scripts/Universal Scripts/BEU_HealthScript.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
     </list>
@@ -34,6 +26,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/SheepItUp/Scripts/Player Scripts/SIU_PlayerInteractions.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_BeatEmUp/Scripts/CambioEscena.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_BeatEmUp/Scripts/Universal Scripts/BEU_HealtUi.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -59,6 +52,14 @@
   }
 }</component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$USER_HOME$/Downloads/Nueva carpeta\Beatem_Up.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\5uang\Downloads\Nueva carpeta" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
     <configuration name="UnitTests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="D:\Unity\Versiones\2021.3.8f1\Editor\Unity.exe" />
       <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath D:\Unity\Proyectos\TTkBEU -testResults Logs/results.xml -testPlatform EditMode -debugCodeOptimization" />
@@ -107,6 +108,10 @@
       <workItem from="1670430088513" duration="4864000" />
       <workItem from="1670903029938" duration="1373000" />
       <workItem from="1670944059523" duration="705000" />
+      <workItem from="1671001309514" duration="676000" />
+      <workItem from="1673566000827" duration="53000" />
+      <workItem from="1673566196719" duration="312000" />
+      <workItem from="1674279813751" duration="3050000" />
     </task>
     <servers />
   </component>

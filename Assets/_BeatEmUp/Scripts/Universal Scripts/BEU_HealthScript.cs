@@ -5,7 +5,8 @@ using UnityEngine;
 public class BEU_HealthScript : MonoBehaviour
 {
     //Variables publicas
-    public float healt = 100f; //Cantidad de vida del personaje
+    public float healt = 100f;
+    public float maxHealt;//Cantidad de vida del personaje
     public bool isPlayer; //El jugador tiene este script como componente Y/N?
 
     //Variables Privadas
@@ -22,6 +23,7 @@ public class BEU_HealthScript : MonoBehaviour
         if (isPlayer)
         {
             salud = GetComponent<BEU_HealtUi>();
+            healt = maxHealt;
         }
     }
 
@@ -37,7 +39,7 @@ public class BEU_HealthScript : MonoBehaviour
         healt -= _damage;
         if (isPlayer)
         {
-            salud.DisplayHealth(healt);
+            salud.DisplayHealth(healt, maxHealt);
         }
         //Mostrar UI de vida
 

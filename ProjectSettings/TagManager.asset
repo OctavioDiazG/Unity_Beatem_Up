@@ -6,6 +6,13 @@ TagManager:
   tags:
   - Enemy
   - Noqueador
+  - Obstacle
+  - Bullet
+  - EnemyBullet
+  - Spike
+  - EndPlatform
+  - Coin
+  - WIN
   layers:
   - Default
   - TransparentFX

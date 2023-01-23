@@ -313,6 +313,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   healt: 26
+  maxHealt: 0
   isPlayer: 0
 --- !u!114 &295365220
 MonoBehaviour:
@@ -754,6 +755,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   healt: 10
+  maxHealt: 10
   isPlayer: 1
 --- !u!114 &665772577
 MonoBehaviour:
@@ -1869,7 +1871,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: c5a7116905ff9ac449872fa93d0a8419, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 8b32a04f0b3d93141b88d93a4183d0f5, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1910,7 +1912,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &1314789482
 MonoBehaviour:
   m_ObjectHideFlags: 0
